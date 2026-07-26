@@ -6,21 +6,21 @@ The name **Saathi** comes from the Hindi word for **companion**. In everyday lif
 
 This project was built around that idea an AI companion that assists with studying, coding, and learning while keeping your data private by running entirely on your local machine.
 
-## 📸 Screenshots
+# Screenshots
 
-### 🏠 Home
+# Home
 
 ![Home](assets/home.png)
 
-### 💬 AI Chat
+# AI Chat
 
 ![Chat](assets/chat.png)
 
-### 💻 Code Debugger
+# Code Debugger
 
 ![Code](assets/code.png)
 
-### 📄 PDF Assistant
+# PDF Assistant
 
 ![PDF](assets/pdf.png)
 
